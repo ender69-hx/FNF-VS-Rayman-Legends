@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Friday Night Funkin': Grafex Engine" file="Grafex" packageName="com.grafex.engine" package="com.grafex.engine" main="Main" version="0.2.7.1" company="Grafex Team" />
+	<app title="Friday Night Funkin': VS Rayman Legends" file="Rayman" packageName="com.grafex.engine" package="com.grafex.engine" main="Main" version="0.2.7.1" company="Grafex Team" />
 
 	<!--The flixel preloader is not accurate in Chrome. You can use it regularly if you embed the swf into a html file
 		or you can set the actual size of your file manually at "FlxPreloaderBase-onUpdate-bytesTotal"-->
