@@ -91,7 +91,6 @@ class HealthIcon extends FlxSprite
 					scale.y = 1;
 					FlxTween.tween(this.scale, {x: 1.15, y: 1.15}, Conductor.crochet / 2000, {ease: FlxEase.quadOut, type: BACKWARD});
                 default:
-					    //nothing dumbass
 
 			}
 	}
