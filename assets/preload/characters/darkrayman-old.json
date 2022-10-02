@@ -1,0 +1,116 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				142,
+				9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				-68
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				2
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Cool",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				117,
+				-15
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Charge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				6
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Attack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Old_Dark_Rayman_Assets",
+	"position": [
+		0,
+		290
+	],
+	"healthbar_colors2": [
+		96,
+		55,
+		96
+	],
+	"healthicon": "witch-rayman",
+	"flip_x": false,
+	"healthbar_colors": [
+		96,
+		55,
+		96
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
