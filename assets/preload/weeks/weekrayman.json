@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Sleepy",
+			"rayman",
+			[
+				255,
+				140,
+				0
+			]
+		],
+		[
+			"Merphi Help",
+			"rayman-merphi",
+			[
+				255,
+				140,
+				0
+			]
+		],
+		[
+			"Dragon Escape",
+			"dragon",
+			[
+				175,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Rayman Legends",
+	"weekName": "Rayman Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
